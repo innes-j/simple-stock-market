@@ -20,3 +20,8 @@ Requirements
 
 # Running the code
 The application, written in Python can be run using a wrapper "StockApplication" that has some throwaway code for user input testing.
+
+# Additional notes on the changes
+Due to limited time constraints, there are some things that I would have liked to add, namely:<br><br>
+Logging: Especially during the trade recording, logging would help with monitoring the trade execution, especially if the exchange was open to more users.<br>
+Testing: There are no unit or integration tests, which would suit the application much more than the user inputs currently in place.<br>
